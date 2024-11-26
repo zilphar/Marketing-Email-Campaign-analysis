@@ -82,6 +82,8 @@ This stability could indicate content alignment or satisfaction with the communi
 
 Power BI
 
+Link to a published report : https://app.powerbi.com/groups/me/reports/f629a5fa-6adf-4c6e-9c21-eecd149fbff4/ReportSection?experience=power-bi
+
 
 
 
