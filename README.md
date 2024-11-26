@@ -31,8 +31,8 @@ Conversion Goals:
 3. Form completions had the fewest conversions, with only 33 attributed emails.
 
 **<ins> Page 3: Device analysis and Customer Segmentation </ins>**
-# Device Analysis
-  # Tablets:
+*<ins>Device Analysis</ins>*
+  *<ins>Tablets:</ins>*
 
 Performance: Tablets receive the highest number of emails but perform poorly in terms of engagement and conversions.
 
@@ -40,7 +40,7 @@ They exhibit the highest bounce rates, suggesting potential issues like outdated
 
 Opportunity: Tablets may require different content formatting or targeting strategies to increase engagement.
  
-  # Desktops:
+  *<ins>Desktops:</ins>*
   
 Performance: Desktops have a significant number of emails sent and a 100% open rate, indicating strong engagement.
 
@@ -48,7 +48,7 @@ They have the highest click rate (1,244) and conversions (799).
 
 Challenges: Desktops also have the highest number of unsubscribers, signaling potential dissatisfaction with the content or frequency of emails.
 
-  # Mobiles:
+  *<ins>Mobiles:</ins>*
 
 Performance: Mobile devices also see a 100% open rate, highlighting their importance for reaching clients.
 
@@ -56,8 +56,8 @@ Despite a lower click rate (771) compared to desktops, mobiles still deliver a s
 
 Opportunity: Mobile optimization can further enhance performance.
 
-# Client Segmentation
-  # Lead Clients:
+*<ins>Client Segmentation</ins>*
+  *<ins>Lead Clients:</ins>*
 
 Lead clients receive the highest number of emails and exhibit stronger engagement metrics (open, click, and conversion rates) than customer clients.
 
@@ -65,7 +65,7 @@ They also record higher unsubscription and bounce rates, indicating varying leve
 
 Lead clients seem to be at a more dynamic stage of interaction with the brand, offering opportunities for conversion through nurturing.
 
-  # Customer Clients:
+  *<ins>Customer Clients:</ins>*
 
 Customer clients receive fewer emails but exhibit more stable engagement with lower unsubscription and bounce rates.
 
