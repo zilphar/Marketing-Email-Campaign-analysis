@@ -1,4 +1,4 @@
-# Market-Email-Campaign-analysis
+# Marketing-Email-Campaign-analysis
 
 **<ins>Introduction</ins>**
 
@@ -79,6 +79,7 @@ This stability could indicate content alignment or satisfaction with the communi
 
 
 **<ins> Tool Used </ins>**
+
 Power BI
 
 
