@@ -31,7 +31,9 @@ Conversion Goals:
 3. Form completions had the fewest conversions, with only 33 attributed emails.
 
 **<ins> Page 3: Device analysis and Customer Segmentation </ins>**
+
 *<ins>Device Analysis</ins>*
+ 
   *<ins>Tablets:</ins>*
 
 Performance: Tablets receive the highest number of emails but perform poorly in terms of engagement and conversions.
@@ -57,6 +59,7 @@ Despite a lower click rate (771) compared to desktops, mobiles still deliver a s
 Opportunity: Mobile optimization can further enhance performance.
 
 *<ins>Client Segmentation</ins>*
+
   *<ins>Lead Clients:</ins>*
 
 Lead clients receive the highest number of emails and exhibit stronger engagement metrics (open, click, and conversion rates) than customer clients.
